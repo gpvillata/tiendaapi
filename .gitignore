@@ -1,0 +1,99 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache/options
+.vs/
+
+# Rider
+.idea/
+*.swp
+*.sln.iml
+.idea_modules/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# NuGet v3+ lockfile
+project.lock.json
+project.assets.json
+
+# MSBuild
+*.msb
+*.msbuild
+*.dll
+*.exe
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ReSharper
+_ReSharper*/
+*.ReSharper.user
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Backup & temporary files
+*.bak
+*.backup
+*~
+*.swp
+*.tmp
+
+# Local environment/configuration
+appsettings.local.json
+appsettings.*.local.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Dependencies
+packages/
+.packages/
+node_modules/
+
+# Miscellaneous
+.vscode/
+.env
+.env.local
